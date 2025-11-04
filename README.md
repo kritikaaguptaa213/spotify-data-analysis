@@ -83,5 +83,4 @@ This project leverages Spotify albums, artists, and track-level data to uncover 
 
 ### How to Use
 1. Clone this repository  
-   ```bash
-   git clone https://github.com/kritikaaguptaa213/spotify-data-analysis.git
+  git clone https://github.com/kritikaaguptaa213/spotify-data-analysis
