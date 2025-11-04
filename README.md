@@ -82,5 +82,4 @@ This project leverages Spotify albums, artists, and track-level data to uncover 
 - [Power BI Desktop](https://powerbi.microsoft.com/) installed
 
 ### How to Use
-1. Clone this repository  
-  git clone https://github.com/kritikaaguptaa213/spotify-data-analysis
+Clone this repository git clone https://github.com/kritikaaguptaa213/spotify-data-analysis
